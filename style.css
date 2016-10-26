@@ -1,0 +1,68 @@
+.tac-container {
+  height: 404px;
+  width: 404px;
+  background-color: black;
+  margin: 20px auto 0 auto;
+  cursor: pointer;
+}
+
+.square {
+  background-color: white;
+  float: left;
+  height: 128px;
+  width: 128px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+
+.left {
+  margin-left: 5px;
+}
+
+.top {
+  margin-top: 5px;
+}
+
+h1 {
+  margin: 0;
+  line-height: 128px;
+  text-align: center;
+  color: black;
+
+}
+
+.header-txt {
+  font-family: Lato-Bold;
+  font-size: 48px;
+  color: #FF0000;
+  letter-spacing: 5.18px;
+  line-height: 57px;
+  margin-top: 60px;
+}
+
+h2 {
+  margin-top: 19px;
+  font-family: Lato-Bold;
+  font-size: 48px;
+  color: #FF0000;
+  letter-spacing: 7.77px;
+  line-height: 86px;
+  text-align: center;
+}
+
+h2 span {
+  font-family: Lato-Bold;
+  font-size: 72px;
+  color: #FF0000;
+  letter-spacing: 7.77px;
+  line-height: 86px;
+  text-decoration: underline;
+  cursor: pointer;
+  margin: 5px;
+
+}
+
+.hide {
+  display: none;
+}
